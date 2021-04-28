@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* -----tags----- */
+
+img {
+    width: 550px;
+    height: 400px;
+    position: relative;
+    top: 100px;
+    left: 600px;
+}
+
+h1 {
+    position: relative;
+    left: 650px;
+    top: 50px;
+}
+/* -----classes----- */
+.model1 {
+    height: 600px;
+    background-color: red;
+    color: yellow;
+}
+
+.model2 {
+    height: 600px;
+    background-color: green;
+    color: yellow;
+}
+
+.model3 {
+    height: 600px;
+    background-color: yellow;
+    color: green;
+}
+
+
+/* -----id's----- */
