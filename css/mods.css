@@ -22,19 +22,19 @@ h1 {
 }
 /* -----classes----- */
 .model1 {
-    height: 600px;
+    height: 100vh;
     background-color: red;
     color: yellow;
 }
 
 .model2 {
-    height: 600px;
+    height: 100vh;
     background-color: green;
     color: yellow;
 }
 
 .model3 {
-    height: 600px;
+    height: 100vh;
     background-color: yellow;
     color: green;
 }
